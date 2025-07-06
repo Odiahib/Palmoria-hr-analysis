@@ -23,7 +23,7 @@ This project is a data driven HR analysis for **Palmoria Group**, a Nigerian Man
 
 ## Tools Used
 
-- Power BI (DAX, relationships, conditional formatting)
+- Power BI (DAX, relationships, conditional formatting) [Download Here] (https://drive.google.com/file/d/1-J-APEuDErepNki5jM70veXI-FFw8Atc/view?usp=drivesdk)
 - Power BI Query (data cleanup & preparation)
 - GitHub (version control & collaboration)
 
